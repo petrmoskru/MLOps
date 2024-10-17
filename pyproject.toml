@@ -7,7 +7,7 @@ name = "mlops"
 version = "0.0.1"
 description = "A short description of the project."
 authors = [
-  { name = "MoskovskikhPetr\u0026AntipovSergey" },
+  { name = "MoskovskikhPetr&AntipovSergey" },
 ]
 
 readme = "README.md"
